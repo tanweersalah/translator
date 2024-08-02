@@ -1,0 +1,7 @@
+langchain
+langchain-community
+langchain_groq
+streamlit
+python-dotenv
+fastapi
+langserve
